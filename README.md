@@ -3,6 +3,7 @@ A SwiftUI Application
 
 ### Technology
 
-Swift
-SwiftUI
+- Swift
+- SwiftUI
+- Xcode
 
