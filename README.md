@@ -1,2 +1,8 @@
 # ShoppingApp
-A SwiftUI app
+A SwiftUI Application 
+
+### Technology
+
+Swift
+SwiftUI
+
